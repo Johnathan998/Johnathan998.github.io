@@ -1,5 +1,4 @@
-p   {
-    color: blue;
-    font-weight: bold;
-    background-color: chartreuse;
+.name   {
+    background-color: #4aaaa5;
+    color: white;
 }
